@@ -62,6 +62,6 @@ redis>=5.0.0
 
 # Development & Testing
 pytest==9.0.2
-pytest-asyncio==0.21.1
+pytest-asyncio==1.4.0
 pytest-cov==7.0.0
 pytest-xdist==3.8.0
