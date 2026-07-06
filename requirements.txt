@@ -6,7 +6,7 @@ uvicorn[standard]==0.42.0
 streamlit==1.58.0
 
 # Database
-sqlalchemy==2.0.45
+sqlalchemy==2.0.51
 alembic==1.18.4
 # Note: sqlite3 is built-in Python module, no need to install
 
